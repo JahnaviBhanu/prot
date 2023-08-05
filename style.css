@@ -1,0 +1,52 @@
+header{
+    
+    background-color:rgba(4, 4, 78, 0.301);
+    height:100px;
+    padding:20px;
+    color:black
+}
+body{
+    text-align: center;
+    color: #0c0a0a;
+    background-attachment:fixed;
+}
+h1{
+    color:black;
+}
+ul li{
+   display: inline; 
+   color: rgb(29, 69, 75);
+   padding: 50px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+section{
+    color:black;
+}
+#home img{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+}
+#home img:hover{
+    transform:scale(0.5,0.5);
+}
+#protfolio{
+    background-color:rgba(4, 4, 78, 0.301);
+}
+#skills ul li{
+    color: black;
+}
+header h1{
+    color: black;
+}
+footer{
+
+    background-color: black;
+    height:50px;
+    padding:20px;
+    color: aliceblue;
+}
